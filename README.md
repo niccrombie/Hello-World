@@ -16,3 +16,12 @@ supported
 - [x] list syntax required (any
 unordered or ordered list
 supported)
+
+# BIG
+## MEDIUM
+### MEDIUM ISH
+#### MODERATE
+##### MIDDLE
+###### SORTA SMALL
+####### LITTLE SMALLER
+######## REALLY SMALL
