@@ -32,4 +32,4 @@ supported)
 * BLAH!
 *BLAH
 
-:100:
+:100%:
